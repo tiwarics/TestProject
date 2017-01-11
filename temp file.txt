@@ -3,3 +3,5 @@ first test file
 Add more lines
 
 line 25
+=======
+line 45
